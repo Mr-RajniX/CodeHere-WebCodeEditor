@@ -1,0 +1,6 @@
+export { default as Logo} from "./img/logo.png"
+export { default as  AboutImg} from "./img/about_img.png"
+export { default as  member1} from "./img/member1.jpeg"
+export { default as  member2} from "./img/member2.jpeg"
+export { default as  member3} from "./img/member3.jpeg"
+export { default as  member4} from "./img/member4.jpeg"
